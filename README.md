@@ -1,0 +1,1 @@
+clone into ~/Library/Graphics/Quartz\ Composer\ Patches/
